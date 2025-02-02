@@ -4,6 +4,7 @@ A1: PROPOSAL OF QUESTION:
 
 How can we segment customers into distinct groups based on continuous factors that influence churn?
 
+
 A2: DEFINED GOAL:
 
 My goal is to identify different customer groups based on factors like monthly charges and bandwidth usage. I want to find out which of these factors are most related to customer churn. This will help us understand why customers churn and create better strategies to retain them.
