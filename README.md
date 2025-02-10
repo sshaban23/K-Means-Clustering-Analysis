@@ -2,7 +2,7 @@
 
 A1: PROPOSAL OF QUESTION:
 
-How can we segment customers into distinct groups based on continuous factors that influence churn?
+"How can we segment customers into distinct groups based on continuous factors that influence churn?"
 
 
 A2: DEFINED GOAL:
